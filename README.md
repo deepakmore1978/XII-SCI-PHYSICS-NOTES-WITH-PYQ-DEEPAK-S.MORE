@@ -122,11 +122,7 @@
                 <li><a href="https://drive.google.com/file/d/1TOU-Mshp-5PPjodj-Q3LiW4Vf-GroDj9/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1vf9Saly9jLd4wlUrIBPUSeR_kHCMojl7/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1mIk0znpYxgXMlSi0uH4P5W2rqIf4sC4I/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/VbN6MqiFX7d7Ay2r5">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/VsLgiovipkZxK88n9">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/z5QXhVPEFAXLgbTn8">MCQ TEST 03</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNuZu3wLmn5Qpk6oMvszNQW5HirfkBiprvZLKFUEOX-nyAEA/viewform?usp=sharing">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8E88TcE2JO40xiDIaleB4GcBu8Ri9Nj_yXSLdO1PKjq2--w/viewform?usp=sharing">MCQ TEST 05</a></li>
+                <li><a href="https://drive.google.com/file/d/1r3R1CPvV8QHpYzIxGUSB6itAY-pRI1nD/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH08 Electrostatics">
@@ -135,6 +131,7 @@
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1s4oMlwWG40iM4GApZyUaf4X2RyqhRo-7/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1O1u4JY5apkaKTDSCoa3J-iyKeVu2d0q9/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH09 Current Electricity">
@@ -143,6 +140,7 @@
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1JakqqBFYlTUs8XUQQ4eMsmhu5lMcUvWo/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/12TwC_DszmAzQUN_nP_uw9D0t-jh_ATJC/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH10 Magnetic Fields due to Electric Current">
@@ -151,6 +149,7 @@
                 <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1zWP4Al71QL1trcaTVmyOLyTJJ34oYWwU/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1CgxpqOO6opkyuGUfd0kYSxtMxO8tRJOT/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH11 Magnetic Material">
@@ -159,6 +158,7 @@
                 <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1g6uzxfikklPYkqkHBMQECD9cBlkWURyy/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1hKFsrakBA4VfmSut5ynCrJn2HIURP-uD/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH12 Electromagnetic Induction">
@@ -167,6 +167,7 @@
                 <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1jgseCHhKzJQbzCjRHOsWuef6THJ1iV5W/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1VI58aEheyEfbHAQ6nHOx0ymyNbJyAyf9/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH13 AC circuits">
