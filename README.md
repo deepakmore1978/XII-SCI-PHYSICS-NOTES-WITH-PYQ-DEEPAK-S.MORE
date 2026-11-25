@@ -68,14 +68,7 @@
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
-                <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MCQ TEST 05</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MCQ TEST 06</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MCQ TEST 07</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MCQ TEST 08</a></li>
+                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">PYQ</a></li>
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
@@ -84,6 +77,7 @@
                 <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/12Wp-QKjGA2UQ_Lq04Q7EotbGLiGm9O2M/view?usp=sharing">PYQ</a></li>
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
@@ -92,6 +86,7 @@
                 <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1FogmN2mHdSMuttVfgu4f7ATjno5EYuwC/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH04 Thermodynamics">
@@ -100,6 +95,7 @@
                 <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1zqXzQ3_A4fhYZCHiA4qzBS1xrCXITH_V/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH05 Oscillation">
@@ -108,6 +104,7 @@
                 <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1RWD5WJ-wtD7zZN14g5ufv7Cki2wWp-MS/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH06 Superposition Of Waves">
@@ -116,6 +113,7 @@
                 <li><a href="https://drive.google.com/file/d/1urBHPSgONsYETpdKX3l-taF-z9UX6u7C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/12LBBr1hNx9FcPLnwW87n3wqWDXeX7NaO/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1PfPeugfxonrIabnq2GeXspV3M4xWavsl/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/15mpcp76LqKJNvY0idqrduzbtOhB67wxi/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH07 Wave Optics">
