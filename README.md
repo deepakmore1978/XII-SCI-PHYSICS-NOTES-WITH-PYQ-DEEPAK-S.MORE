@@ -176,6 +176,7 @@
                 <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/131W8vFtMjOgTuXqdFWln5f9Y62QJYld3/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1epTwTFLQ-iY5ORf_P5r5DB4UEGY-0NAw/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
@@ -184,6 +185,7 @@
                 <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1Thv5mns39rZOX-G-UHPe-TxtWi1S1AWa/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/15bhlQf0U4hp6HYEy1EjVtG687aSyiuNm/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH15 Structure of Atoms and Nuclei">
@@ -192,6 +194,7 @@
                 <li><a href="https://drive.google.com/file/d/1QwAnMYgnqABsXZ2v24q_lkzQPOU73NYT/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1d73xZE_xaL04tEm6jIlHtbo1FCj6QhGz/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1muagYfsI5-t97d_YBuZHLXIt-SQqBxUs/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1-bB2brKanE9RRa_N02O1HkU2mPo_A6hl/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
          <section id="CH16 Semiconductor Devices">
@@ -200,6 +203,7 @@
                 <li><a href="https://drive.google.com/file/d/1vv8uInIe0Eex8kbE69x6PPmdINizzFKR/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1PG-HUftyTkDwf2BUr30n4dBK3OyqIrB0/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1DZNsD1ZbGeOizD3LUqQnm5cTsHTWOExL/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1R-PbKWZIQSQEFUvDaNE3O0trJ4ACRjpc/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="Physics Hand Book">
