@@ -215,29 +215,6 @@
                 <li><a href="https://drive.google.com/file/d/1hh7WCoq0DYGW48FNAOWnqSzrU-LF4hbO/view?usp=sharing">Arihant Physics Hand Book</a></li>
            </ul>
         </section>
-        <section id="MHT CET TEST LINK">
-            <h2>MHT CET</h2>
-            <ul>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxDPfLNyMm0nsiQQpgWx_Xu1aLWSMztbRCTCWWiExbt76XvA/viewform?usp=sharing">CYCLE TEST 01 CHP 01 TO 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3anPJ9rphDZxxQCciqZFVLJFuf4H6O--j57Nn8k4iLOUePg/viewform?usp=sharing">CYCLE TEST 02 CHP 05 TO 08</a></li> 
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSem9Wp-F-CnL0Fk0M7uwz1z03rP1y96VLHabCDe45g8kwt8IQ/viewform?usp=sharing">CYCLE TEST 03 CHP 09 TO 12</a></li> 
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeMVFIZdJJucsatEPabF60UkS7GrVmLOqzWIV6-PBuGP7SmMQ/viewform?usp=sharing">CYCLE TEST 04 CHP 13 TO 16</a></li> 
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScRyPHeUjIDT8ynfrAGRr7HYn6g0zSwCFoKDVufojansGiCTA/viewform?usp=sharing">FULL SYLLABUS TEST 01</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScel6qxY3kRXNndSGLtj9G8Dah7rN934MvIG97DQ8MzGQZ6Aw/viewform?usp=sharing">FULL SYLLABUS TEST 02</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdvLK-C9YgPzxU5eoC0VZG1sgmw1ARx4T_-ufVyOMCiAm5P9Q/viewform?usp=sharing">FULL SYLLABUS TEST 03</a></li>
-           </ul>
-        </section>
-        <section id="NEET TEST LINK">
-            <h2>NEET TEST SERIES</h2>
-            <ul>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing"> TEST 01 UNIT AND MEASUREMENT</a></li>
-                <li><a href="https://drive.google.com/file/d/1arWh4j4SP3zzf9zz2ZUHoNvwyjxgIsRs/view?usp=sharing"> TEST 01 HINT AND SOLUTION</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9a-9fTZ8l7n_9EyVYmN5tA-ikI4aqVYDO_uWWA5lOdstUUg/viewform?usp=sharing">TEST 02 1D, 2D,Gavitation, Mathematical Method </a></li>
-                <li><a href="https://drive.google.com/file/d/1chr3z6D-ux2fdo8CfHRZeJVZMlqzrB52/view?usp=sharing">TEST 02 HINT AND SOLUTION</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSepq7W4i6TQZ3G1qsss8tawFqW276QnhPQD0unGHcwFNIcfzg/viewform?usp=sharing">TEST 03 Law of motion and Mechanical properties of solid</a></li>
-                <li><a href="https://drive.google.com/file/d/1ffd88OwbdbYq0N9I6nAYb_epr7VkO1X1/view?usp=sharing">TEST 03 HINT AND SOLUTION</a></li>
-           </ul>
-        </section>
         </main>
     </body>
 
